@@ -4,6 +4,23 @@
 
 Generative AI explores the creation of models capable of generating new content, spanning images, text, music, and beyond. This course delves into the core concepts, methods, and applications of generative deep learning, offering both theoretical foundations and practical skills.
 
+## Course Objectives
+
+- Understand the foundational concepts and methods in generative deep learning.
+- Implement and train various generative models, including VAEs, autoregressive models, and graph neural networks.
+- Apply generative models to diverse domains, such as music generation, world modeling, and multimodal data synthesis.
+- Gain practical experience in generative AI through hands-on projects and exercises.
+
+## Learning Outcomes
+
+By the end of this course, students should be able to:
+
+- Explain the principles and algorithms of generative deep learning models.
+- Implement and train generative models using PyTorch.
+- Apply generative models to create novel content across different domains.
+- Analyze and evaluate the performance of generative models for specific tasks and datasets.
+
+
 ## Course Content (Subject to Change)
 
 - Introduction to Generative Modeling
@@ -32,27 +49,83 @@ Generative AI explores the creation of models capable of generating new content,
 11. **Graph Generative Models** - Theory and Implementation
 12. **Generative 3D Models** - Introduction and Real-World Applications
 
+
+## Grading
+This course will involve several homework assignments and a final project focused on generative AI. Attendance and participation, homework assignments, and the final project will be graded as follows:
+
+- Attendance and Participation: 10%
+- Homework Assignments: 40%
+- Final Project: 50%
+
 ## Homeworks 
 - [HW1](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW1) due June 1
 - HW2 due June 8
 - HW3 due June 15
 - HW4 due June 22
 
-## Course Objectives
+# Course Project:
 
-- Understand the foundational concepts and methods in generative deep learning.
-- Implement and train various generative models, including VAEs, autoregressive models, and graph neural networks.
-- Apply generative models to diverse domains, such as music generation, world modeling, and multimodal data synthesis.
-- Gain practical experience in generative AI through hands-on projects and exercises.
+## Overview
 
-## Learning Outcomes
+This course will involve a final project focused on generative AI. Your final project will account for 50% of your total grade and will be completed in three tasks: the project proposal, a Jupyter notebook documenting your work, and a recorded presentation.
 
-By the end of this course, students should be able to:
+## Final Project
 
-- Explain the principles and algorithms of generative deep learning models.
-- Implement and train generative models using PyTorch.
-- Apply generative models to create novel content across different domains.
-- Analyze and evaluate the performance of generative models for specific tasks and datasets.
+### Task 1: Project Proposal, Data Selection, and Data Description (5%) ( due June 8 )
+
+In this task, you will submit a project proposal that includes the following components:
+
+- **Project Proposal**: Outline the objectives and goals of your project. Describe the problem you intend to address using generative AI techniques and your overall approach.
+- **Data Selection**: Detail the sources of your data and explain why these sources are suitable. Discuss any preprocessing steps required.
+- **Data Description**: Provide a comprehensive description of the data, including format, size, attributes, and any inherent challenges or limitations.
+
+### Task 2: Jupyter Notebook (35%) ( due June 27th )
+
+You will create a comprehensive Jupyter notebook that documents your project, including the following components:
+
+1. **Data Preprocessing (5%)**: Describe the methods and steps used to preprocess and prepare the data.
+2. **Model Implementation (10%)**: Detail the architecture and implementation of your generative AI model. Include code snippets and explanations of your model choices and any modifications.
+3. **Methods (5%)**: Explain the algorithms, techniques, or frameworks used in your project.
+4. **Experiments and Results (10%)**: Present your experiments and results using performance metrics, visualizations, and analyses.
+
+### Task 3: Recorded Presentation (10%) ( due June 27th )
+
+You will deliver a recorded presentation explaining your project, including its objectives, methodology, results, and conclusions. This presentation should not exceed 10 minutes and should involve all team members.
+
+## Generative AI Project Ideas
+
+Here are 20 project ideas for your generative AI project:
+
+1. **Image Generation**: Train a Generative Adversarial Network (GAN) to generate realistic images from random noise.
+2. **Text-to-Image Synthesis**: Develop a model that generates images based on textual descriptions.
+3. **Image-to-Image Translation**: Use a model like CycleGAN to translate images from one domain to another (e.g., transforming summer landscapes to winter landscapes).
+4. **Style Transfer**: Create a model that transfers the artistic style of one image onto another while preserving the original content.
+5. **Music Generation**: Train a model to compose original music pieces.
+6. **Text Generation**: Develop a model to generate coherent and contextually relevant text, such as poetry, stories, or news articles.
+7. **Speech Synthesis**: Build a model to generate human-like speech from text input.
+8. **3D Object Generation**: Use a generative model to create 3D objects or shapes.
+9. **Face Generation**: Train a model to generate realistic human faces.
+10. **Super-Resolution**: Develop a model to enhance the resolution and quality of low-resolution images.
+11. **Video Generation**: Create a model that generates short video clips based on given inputs.
+12. **Handwriting Generation**: Train a model to produce realistic handwritten text in various styles.
+13. **Chatbot Creation**: Develop a conversational AI that generates human-like responses.
+14. **Fashion Design**: Use generative models to create new clothing designs.
+15. **Image Inpainting**: Build a model that can fill in missing parts of an image seamlessly.
+16. **Data Augmentation**: Generate synthetic data to augment a dataset for training other machine learning models.
+17. **Recipe Generation**: Develop a model that creates new recipes based on ingredient lists.
+18. **Game Level Generation**: Use a generative model to design new levels for video games.
+19. **Code Generation**: Train a model to generate code snippets based on natural language descriptions.
+20. **Art Creation**: Use generative models to create new pieces of digital art.
+
+
+
+## Important Information
+
+- Ensure your project is well-documented and reproducible.
+- Your Jupyter notebook should be well-organized and easy to follow.
+- Your recorded presentation should effectively communicate your project's objectives, methods, and results.
+
+Good luck with your final project!
 
 ## Textbook
 
