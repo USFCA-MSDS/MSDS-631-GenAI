@@ -32,6 +32,12 @@ Generative AI explores the creation of models capable of generating new content,
 11. **Graph Generative Models** - Theory and Implementation
 12. **Generative 3D Models** - Introduction and Real-World Applications
 
+## Homeworks 
+- HW1 due June 1
+- HW2 due June 8
+- HW3 due June 15
+- HW4 due June 22
+
 ## Course Objectives
 
 - Understand the foundational concepts and methods in generative deep learning.
