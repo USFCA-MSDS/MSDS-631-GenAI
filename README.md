@@ -19,7 +19,8 @@ Generative AI explores the creation of models capable of generating new content,
 
 ## Lecture Breakdown
 
-1. **Variational Autoencoders (VAEs)**. [Code](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/CVAE.ipynb) [Notes]()   
+1. **Variational Autoencoders (VAEs)**. [Code](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/CVAE.ipynb) [Notes]()
+  - [Variant versions of VAR](https://github.com/AntixK/PyTorch-VAE)      
 3. **Autoregressive Models** 
 4. **Energy-Based Models** 
 5. **Diffusion Models** - Theory and Practical Examples (Part I)
