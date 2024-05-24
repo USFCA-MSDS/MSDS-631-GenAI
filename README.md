@@ -38,16 +38,16 @@ By the end of this course, students should be able to:
 
 1. **Variational Autoencoders (VAEs)**. [Code](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/CVAE.ipynb) [Notes]()
   - [Variant versions of VAR](https://github.com/AntixK/PyTorch-VAE)      
-3. **Autoregressive Models** [Intro to AR models](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/auto_regressive_models.pdf) [simple_autoregressive](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simple_autoregressive_gen_model.ipynb) [SimplePixelCNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/PixelCNN.ipynb) [PixelCNN full implementation](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition/blob/main/notebooks/05_autoregressive/02_pixelcnn/pixelcnn.ipynb)
-4. **Energy-Based Models** 
-5. **Diffusion Models** - Theory and Practical Examples (Part I)
-6. **Diffusion Models** - Hands-On Exploration and Case Studies (Part II)
-7. **Music Generation** - Techniques and Creative Applications
-8. **World Models** - Understanding Environments and Long-Term Predictions
-9. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
-10. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
-11. **Graph Generative Models** - Theory and Implementation
-12. **Generative 3D Models** - Introduction and Real-World Applications
+2. **Autoregressive Models** [Intro to AR models](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/auto_regressive_models.pdf) [simple_autoregressive](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simple_autoregressive_gen_model.ipynb) [SimplePixelCNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/PixelCNN.ipynb) [PixelCNN full implementation](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition/blob/main/notebooks/05_autoregressive/02_pixelcnn/pixelcnn.ipynb)
+3. **Energy-Based Models** 
+4. **Diffusion Models** - Theory and Practical Examples (Part I)
+5. **Diffusion Models** - Hands-On Exploration and Case Studies (Part II)
+6. **Music Generation** - Techniques and Creative Applications
+7. **World Models** - Understanding Environments and Long-Term Predictions
+8. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
+9. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
+10. **Graph Generative Models** - Theory and Implementation
+11. **Generative 3D Models** - Introduction and Real-World Applications
 
 
 ## Grading
