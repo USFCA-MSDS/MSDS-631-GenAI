@@ -39,7 +39,7 @@ By the end of this course, students should be able to:
 1. **Variational Autoencoders (VAEs)**. [Code](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/CVAE.ipynb) [Notes]()
   - [Variant versions of VAR](https://github.com/AntixK/PyTorch-VAE)      
 2. **Autoregressive Models** [Intro to AR models](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/auto_regressive_models.pdf) [simple_autoregressive](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simple_autoregressive_gen_model.ipynb) [SimplePixelCNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/PixelCNN.ipynb) [PixelCNN full implementation](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition/blob/main/notebooks/05_autoregressive/02_pixelcnn/pixelcnn.ipynb) [char rnn](https://github.com/karpathy/char-rnn) [rnn-effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-3. **Diffusion Models** - Theory and Practical Examples (Part I)[Diffusors from sctrach](https://github.com/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb) [Diffusion 1d example from sctrach]()
+3. **Diffusion Models** - Theory and Practical Examples (Part I)[Diffusors from sctrach](https://github.com/huggingface/diffusion-models-class/blob/main/unit1/02_diffusion_models_from_scratch.ipynb) [Diffusion 1d example from sctrach](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/1d_Diffusion_Model_from_scratch.ipynb)
 4. **Diffusion Models** - Hands-On Exploration and Case Studies (Part II)
 5. **Music Generation** - Techniques and Creative Applications
 6. **World Models** - Understanding Environments and Long-Term Predictions
