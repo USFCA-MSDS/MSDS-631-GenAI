@@ -129,4 +129,4 @@ Good luck with your final project!
 
 ## Textbook
 
-- "Generative Deep Learning, 2nd Edition" by David Foster. [Pytorch repo](https://github.com/pyoungkangkim/Generative-Deep-Learning-Code-in-Pytorch)
+- "Generative Deep Learning, 2nd Edition" by David Foster. [Pytorch repo](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition/tree/main)
