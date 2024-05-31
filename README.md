@@ -47,7 +47,8 @@ By the end of this course, students should be able to:
     * [Conditional diffusion model introduction](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit2/02_class_conditioned_diffusion_model_example.ipynb)
     * [Fine Tuning diffusors](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit2/01_finetuning_and_guidance.ipynb#scrollTo=2n9AmuTZlWLI)
     * [Training Diffusors](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/training_example.ipynb#scrollTo=67640279-979b-490d-80fe-65673b94ae00)
-    * [Stable diffusion introduction](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit3/01_stable_diffusion_introduction.ipynb#scrollTo=fx6whXJmsNG9), [Stable diffusion](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=YE7hhg5ArUu4)
+    * [Stable diffusion introduction](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit3/01_stable_diffusion_introduction.ipynb#scrollTo=fx6whXJmsNG9),     [Stable diffusion](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=YE7hhg5ArUu4)
+    * [Stable Diffusion in pytorch](https://github.com/hkproj/pytorch-stable-diffusion/tree/main)
 5. **Music Generation** - Techniques and Creative Applications
 6. **World Models** - Understanding Environments and Long-Term Predictions
 7. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
