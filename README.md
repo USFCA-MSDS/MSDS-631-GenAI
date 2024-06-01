@@ -70,8 +70,8 @@ This course will involve several homework assignments and a final project focuse
 - Final Project: 50%
 
 ## Homeworks 
-- [HW1](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW1.md)) due June 1
-- HW2 due June 8
+- [HW1](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW1.md) due June 1
+- [HW2](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW2.md) due June 8
 - HW3 due June 15
 - HW4 due June 22
 
