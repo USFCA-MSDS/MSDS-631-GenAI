@@ -80,7 +80,7 @@ This course will involve several homework assignments and a final project focuse
 
 ## Homeworks 
 - [HW1](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW1.md) due June 1
-- [HW2](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW2.md) due June 8
+- [HW2](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/HW2.md) [helper](https://huggingface.co/docs/diffusers/v0.18.2/en/tutorials/basic_training) due June 8
 - HW3 due June 15
 - HW4 due June 22
 
