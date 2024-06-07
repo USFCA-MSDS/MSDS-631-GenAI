@@ -54,6 +54,10 @@ By the end of this course, students should be able to:
     * [Stable Diffusion in pytorch](https://github.com/hkproj/pytorch-stable-diffusion/tree/main)
     * [Understanding Stable Diffusions](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
     * [Diffusors course](https://huggingface.co/learn/audio-course/chapter0/introduction)
+6. ** Energy-based models**
+      * Impainting [notebook]()
+      * [Energy-based model tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
+      *    
 5. **Music Generation** - Techniques and Creative Applications
 6. **World Models** - Understanding Environments and Long-Term Predictions
 7. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
