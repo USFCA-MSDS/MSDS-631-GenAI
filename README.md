@@ -55,7 +55,7 @@ By the end of this course, students should be able to:
     * [Understanding Stable Diffusions](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
     * [Diffusors course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 6. ** Energy-based models**
-      * Impainting [notebook]()
+      * Impainting [notebook](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/inpainting_noise.ipynb)
       * [Energy-based model tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
       *    
 5. **Music Generation** - Techniques and Creative Applications
