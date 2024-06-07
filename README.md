@@ -59,7 +59,7 @@ By the end of this course, students should be able to:
       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/energy_models.pdf)
       * [Impainting crop](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting)
       * Impainting [notebook](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/inpainting_noise.ipynb)
-      * [simple MCMC](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simple_MCMC.ipynb)
+      * [simple MCMC](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simple_MCMC.ipynb) [MCMC good introduction video](https://www.youtube.com/watch?v=yApmR-c_hKU)
       * [Metropolis-adjusted_Langevin_algorithm](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)
       * [Phyics of energy based models](https://physicsofebm.github.io/)
            
