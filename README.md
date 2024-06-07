@@ -61,6 +61,7 @@ By the end of this course, students should be able to:
       * Impainting [notebook](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/inpainting_noise.ipynb)
       * [simple MCMC](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simple_MCMC.ipynb)
       * [Metropolis-adjusted_Langevin_algorithm](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)
+      * [Phyics of energy based models](https://physicsofebm.github.io/)
            
 7. **Music Generation** - Techniques and Creative Applications
 8. **World Models** - Understanding Environments and Long-Term Predictions
