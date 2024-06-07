@@ -57,7 +57,8 @@ By the end of this course, students should be able to:
 6. ** Energy-based models**
       * Impainting [notebook](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/inpainting_noise.ipynb)
       * [Energy-based model tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
-      *    
+      * [Lecture]()
+           
 5. **Music Generation** - Techniques and Creative Applications
 6. **World Models** - Understanding Environments and Long-Term Predictions
 7. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
