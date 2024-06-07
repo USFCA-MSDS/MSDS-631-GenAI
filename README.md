@@ -59,13 +59,15 @@ By the end of this course, students should be able to:
       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/energy_models.pdf)
       * [Impainting crop](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting)
       * Impainting [notebook](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/inpainting_noise.ipynb)
+      * [simple MCMC](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simple_MCMC.ipynb)
+      * [Metropolis-adjusted_Langevin_algorithm](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)
            
-5. **Music Generation** - Techniques and Creative Applications
-6. **World Models** - Understanding Environments and Long-Term Predictions
-7. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
-8. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
-9. **Graph Generative Models** - Theory and Implementation
-10. **Generative 3D Models** - Introduction and Real-World Applications
+7. **Music Generation** - Techniques and Creative Applications
+8. **World Models** - Understanding Environments and Long-Term Predictions
+9. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
+10. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
+11. **Graph Generative Models** - Theory and Implementation
+12. **Generative 3D Models** - Introduction and Real-World Applications
 
 
 ## Grading
