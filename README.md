@@ -66,6 +66,7 @@ By the end of this course, students should be able to:
 7. **Generative 3D Models**
    
        * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/mesh_generation.pdf)
+   
        * [Code](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/MeshAutoEncoder.ipynb)
    
    
