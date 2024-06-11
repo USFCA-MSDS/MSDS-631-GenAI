@@ -64,11 +64,8 @@ By the end of this course, students should be able to:
       * [Phyics of energy based models](https://physicsofebm.github.io/)
      
 7. **Generative 3D Models** -
-   
-       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/mesh_generation.pdf)
-       * [Code](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/MeshAutoEncoder.ipynb)
-   
-   
+      * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/mesh_generation.pdf)
+      * [Code](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/MeshAutoEncoder.ipynb)
            
 7. **Music Generation** - Techniques and Creative Applications
 8. **World Models** - Understanding Environments and Long-Term Predictions
