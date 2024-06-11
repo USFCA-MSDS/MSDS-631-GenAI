@@ -62,13 +62,19 @@ By the end of this course, students should be able to:
       * [simple MCMC](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simple_MCMC.ipynb) [MCMC good introduction video](https://www.youtube.com/watch?v=yApmR-c_hKU)
       * [Metropolis-adjusted_Langevin_algorithm](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)
       * [Phyics of energy based models](https://physicsofebm.github.io/)
+     
+7. **Generative 3D Models**
+       * [Lecture]()
+       * [Code]()
+   
+   
            
 7. **Music Generation** - Techniques and Creative Applications
 8. **World Models** - Understanding Environments and Long-Term Predictions
 9. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
 10. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
 11. **Graph Generative Models** - Theory and Implementation
-12. **Generative 3D Models** - Introduction and Real-World Applications
+
 
 
 ## Grading
