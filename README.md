@@ -54,7 +54,7 @@ By the end of this course, students should be able to:
     * [Stable Diffusion in pytorch](https://github.com/hkproj/pytorch-stable-diffusion/tree/main)
     * [Understanding Stable Diffusions](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
     * [Diffusors course](https://huggingface.co/learn/audio-course/chapter0/introduction)
-6. ** Energy-based models**
+6. **Energy-based models** -
       * [Energy-based model tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/energy_models.pdf)
       * [Impainting crop](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting)
@@ -63,7 +63,7 @@ By the end of this course, students should be able to:
       * [Metropolis-adjusted_Langevin_algorithm](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)
       * [Phyics of energy based models](https://physicsofebm.github.io/)
      
-7. **Generative 3D Models**
+7. **Generative 3D Models** -
    
        * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/mesh_generation.pdf)
        * [Code](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/MeshAutoEncoder.ipynb)
