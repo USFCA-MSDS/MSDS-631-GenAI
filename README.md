@@ -53,6 +53,7 @@ By the end of this course, students should be able to:
     * [Stable diffusion introduction](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/unit3/01_stable_diffusion_introduction.ipynb#scrollTo=fx6whXJmsNG9),     [Stable diffusion](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=YE7hhg5ArUu4)
     * [Stable Diffusion in pytorch](https://github.com/hkproj/pytorch-stable-diffusion/tree/main)
     * [Understanding Stable Diffusions](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing)
+    * [Stable Diffusion Video](https://www.youtube.com/watch?v=J87hffSMB60&t=615s)
     * [Diffusors course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 6. **Energy-based models** -
       * [Energy-based model tutorial](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html)
