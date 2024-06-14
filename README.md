@@ -67,6 +67,7 @@ By the end of this course, students should be able to:
 7. **Generative 3D Models** -
       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/mesh_generation.pdf) [reference](https://arxiv.org/pdf/2301.11445), [github repo ref](https://github.com/1zb/3DShape2VecSet)
       * [Code](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/MeshAutoEncoder.ipynb)
+      * [Graph RNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/deep_graph_generation_.pdf)
         
            
 7. **Graph Generative Models**
