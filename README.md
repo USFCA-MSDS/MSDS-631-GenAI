@@ -71,6 +71,7 @@ By the end of this course, students should be able to:
            
 7. **Graph Generative Models**
       * [Graph Variational AutoEncoders Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/GVAE.pdf) [Code](https://github.com/zfjsail/gae-pytorch/tree/master)
+      * [Great intro to graph rep learning](https://www-cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf)
       * [Graph RNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/deep_graph_generation_.pdf)
    
 8. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
