@@ -70,12 +70,10 @@ By the end of this course, students should be able to:
         
            
 7. **Graph Generative Models**
-8.    * [Graph Variational AutoEncoders Lecture]() [Code](https://github.com/zfjsail/gae-pytorch/tree/master)
+      * [Graph Variational AutoEncoders Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/GVAE.pdf) [Code](https://github.com/zfjsail/gae-pytorch/tree/master)
    
-9. **World Models** - Understanding Environments and Long-Term Predictions
-10. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
-11. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
-12. **Graph Generative Models** - Theory and Implementation
+8. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
+9. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
 
 
 
