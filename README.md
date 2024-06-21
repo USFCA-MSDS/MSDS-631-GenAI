@@ -81,7 +81,7 @@ By the end of this course, students should be able to:
       * [Introduction to zero shot classification with clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/zero_shot_classification_with_clip.ipynb)
       * [zero shot classification with clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Zero_shot_classification_with_clip_part2.ipynb)
       * [Training Clip in practice](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Training_clip_in_practice.ipynb) [Clip-X](https://github.com/lucidrains/x-clip) [openClip](https://github.com/mlfoundations/open_clip/tree/main)
-      * [Simplified DALLE from sctrach](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_DALLE.ipynb)
+      * [Simplified DALLE from scratch](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_DALLE.ipynb)
 
 10. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
 
