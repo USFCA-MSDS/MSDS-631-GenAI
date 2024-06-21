@@ -84,6 +84,7 @@ By the end of this course, students should be able to:
       * [Using clip in search](https://blog.lancedb.com/multi-modal-ai-made-easy-with-lancedb-clip-5aaf8801c939/)
       * [Training Clip in practice](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Training_clip_in_practice.ipynb) [Clip-X](https://github.com/lucidrains/x-clip) [openClip](https://github.com/mlfoundations/open_clip/tree/main) [Hugging face clip model](https://huggingface.co/docs/transformers/en/model_doc/clip)
       * [Simplified DALLE from scratch](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_DALLE.ipynb)
+      * [Vision Transformer main popular github library](https://github.com/lucidrains/vit-pytorch)
       * [Lecture](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Intro_to_MDM.pdf)
         
 
