@@ -75,7 +75,10 @@ By the end of this course, students should be able to:
       * [Graph RNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/deep_graph_generation_.pdf)
    
 8. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
-9. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
+      * [Introduction to clip]()
+
+
+10. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
 
 
 
