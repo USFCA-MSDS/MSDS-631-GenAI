@@ -172,3 +172,5 @@ Good luck with your final project!
 ## Textbook
 
 - "Generative Deep Learning, 2nd Edition" by David Foster. [Pytorch repo](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition/tree/main)
+## other resources
+- [GenAI tutorials](https://github.com/microsoft/generative-ai-for-beginners)
