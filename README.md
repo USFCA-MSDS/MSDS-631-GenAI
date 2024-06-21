@@ -75,11 +75,11 @@ By the end of this course, students should be able to:
       * [Graph RNN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/deep_graph_generation_.pdf)
    
 8. **Multimodal Models (Part I)** - Fusion of Text, Image, and Audio Data
+      * [A template notebook for building a multimodal](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/multimodal_model_template.ipynb)
       * [Introduction to clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Introduction_to_clip.ipynb)
       * [Building clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/building_clip.ipynb)
-      * [A template notebook for building a multimodal](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/multimodal_model_template.ipynb)
       * [Zero shot classification with clip](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/zero_shot_classification_with_clip.ipynb)
-
+      * [Simplified DALLE from sctrach](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_DALLE.ipynb)
 
 10. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
 
