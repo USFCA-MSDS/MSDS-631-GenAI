@@ -93,6 +93,7 @@ By the end of this course, students should be able to:
       * [Simplified Super res NN implementation](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_NN_simplified.ipynb)
       * [Simplified Imagen](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_Imagen.ipynb) [Imagen Blog](https://imagen.research.google/)
       * [Training Imagen in practice](https://github.com/lucidrains/imagen-pytorch)
+      * [Training Dall-e 2](https://github.com/lucidrains/DALLE2-pytorch?tab=readme-ov-file)
 
 
 
