@@ -89,6 +89,7 @@ By the end of this course, students should be able to:
         
 
 10. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
+      * [Recall Super res NN](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/super_res_nn%20(2).pdf)
       * [Simplified Imagen](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_Imagen.ipynb) [Imagen Blog](https://imagen.research.google/)
       * [Training Imagen in practice](https://github.com/lucidrains/imagen-pytorch)
 
