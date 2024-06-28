@@ -89,7 +89,7 @@ By the end of this course, students should be able to:
         
 
 10. **Multimodal Models (Part II)** - Advanced Techniques and Case Studies
-      * [Simplified Imagen](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_Imagen.ipynb)
+      * [Simplified Imagen](https://github.com/USFCA-MSDS/MSDS-631-GenAI/blob/main/Simplified_Imagen.ipynb) [Imagen Blog](https://imagen.research.google/)
 
 
 
